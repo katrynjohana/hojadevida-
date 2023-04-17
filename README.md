@@ -1,6 +1,8 @@
 # hoja de vida
 
-![WIN_20230227_09_39_27_Pro](https://user-images.githubusercontent.com/126477273/221593804-cbcc381e-b937-47c5-9c78-79e9d89cdd0a.jpg)
+
+<img src="https://user-images.githubusercontent.com/126477273/221593804-cbcc381e-b937-47c5-9c78-79e9d89cdd0a.jpg" width="100" height="100" />
+
 
 # MI HOJA DE VIDA 
 | **NOMBRE** | katryn joahana gonzalez rodriguez           |
